@@ -1,6 +1,7 @@
 <div align="center">
 	
 # Lee Hye Rim
+<a href="https://velog.io/@rim" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 
 	
 📚 STACKS <br>
